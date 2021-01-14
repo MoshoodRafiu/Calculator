@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background: url('calculator-bg-3.jpg')center/cover no-repeat fixed;
+    background-color: black;
 }
 .clearfix::after {
     content: "";
@@ -18,7 +18,7 @@ body{
     margin: auto;
     margin-top: 100px;
     border-radius: 7px;
-    box-shadow: 5px 10px 8px black;
+    box-shadow: 0 0 10px #797878;
 }
 .body {
     float: left;
